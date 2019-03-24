@@ -1,0 +1,23 @@
+body{
+   
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+}
+header{
+    background-color: rgb(51, 1, 75);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.container{
+  
+   margin-top:10px; 
+    /* margin: 5px 0 0 0; */
+}
+.colorh3{
+    color: blueviolet;
+}
+i{
+    font-weight: bold;
+}
