@@ -1,0 +1,96 @@
+/* *{
+    border: #000000 solid 1px;
+} */
+
+
+header{
+    height: 120px;
+    width: 100%;
+    background: #000000 url(https://www.dhresource.com/0x0s/f2-albu-g7-M01-98-2D-rBVaSltz7IWAPUOfAAMW0jeniR4257.jpg/3d-wallpaper-custom-photo-ceiling-mural-wallpaper.jpg) no-repeat left center;
+    background-size: cover;
+}
+#top{
+
+    width: 100%;
+    height: 20px;
+    background: #bdd2e4
+}
+.ser{
+    float: right;
+    margin-right: 90px;
+}
+.ser input{
+height: 40px;
+
+}
+ /* a{
+padding-right: 40px;
+    border-right: 1px solid black;
+    margin: 0 30px;
+    text-align: center;
+    color: rgb(75, 80, 6);
+} */
+.mid{
+    text-align: center;
+}
+.degree{
+
+    width: 500px;
+    height: 400px;
+margin: auto;
+display: flex;
+flex-direction:column; 
+background-image: url("https://besthqwallpapers.com/Uploads/24-11-2017/30337/thumb2-arabian-peninsula-view-from-space-night-city-lights-red-sea.jpg")
+}
+#city{
+position: relative;
+
+
+}
+h5{
+    width: 100px;
+    color: rgb(238, 237, 186);
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+}
+
+.top1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column; 
+    height: 100px;
+
+}
+.center{
+    display: flex;
+    justify-content:space-between;
+    height: 250px;
+    
+}
+
+#l222{
+display: flex;
+    margin-right: 6%;
+    flex-direction:column;
+    justify-content:space-around;
+
+}
+
+#r222{
+    display: flex;
+        margin-left: 10%;
+        flex-direction:column;
+        justify-content:space-around;
+    
+ }
+ .bot1{
+    display: flex;
+    justify-content:space-around;
+
+ }
+
+ #ind{
+width: 500px;
+    margin:  20px  40% ;
+ }
