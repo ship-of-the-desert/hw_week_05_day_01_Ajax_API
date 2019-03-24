@@ -4,7 +4,7 @@
 
 ## Overview
 
-The [Open Weather API](https://openweathermap.org/api) is a user friendly API to incorporate world weather data into an application. You will design and build an app that will submit a given city or zip code from a form and return the current weather conditions. This project will use your jQuery AJAX, HTML and CSS skills.
+The [Open Weather API](https://openweathermap.org/api) is a user friendly API to incorporate world weather data into an application. You will design and build an app that will submit a given city or zip code from a form and return the current weather conditions. This homework will use your jQuery AJAX, HTML and CSS skills.
 
 <br>
 
