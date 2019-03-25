@@ -6,9 +6,9 @@
 
 document.querySelector('#cities').addEventListener('#sbutton', function getWeather(){
 
-        API_KEY = 'fa8fc4b90663394ec6b49b92dbff7151'
+    API_KEY = 'f5b0d6c20f9ba48157a290cdd094e528'
         var city = document.querySelector('#city').value;
-        URL = `http://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=${f5b0d6c20f9ba48157a290cdd094e528}`;
+        URL = `http://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=${API_KEY}`;
 
         axios({
             method: 'get',
