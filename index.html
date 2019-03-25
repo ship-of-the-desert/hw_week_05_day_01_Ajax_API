@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Weather forecast</title>
+</head>
+
+<body>
+    <div class="container"></div>
+
+    <h1>Weather forecast</h1>
+    <h2>Current weather and forecasts in your city:</h2>
+    <div class="weather"></div>
+    <div>
+        <p>
+            <label>Select your city</label>
+            <select id="cities">
+                <option value="RIYADH">RIYADH</option>
+                <option value="LONDON">LONDON</option>
+                <option value="NEW YORK">NEW YORK</option>
+                <option value="PARIS">PARIS</option>
+            </select>
+                    <input id="sbutton" value="submit" type="button" />
+        </p>
+    </div>
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="http://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src='main.js'></script>
+
+</body>
+
+</html>
