@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: #adc5ed;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: #3077e8;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #e8b62f;
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+form {
+    text-align: center;
+}
+
+.container {
+    color: #3077e8;
+    text-align: center;
+}
